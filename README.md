@@ -68,6 +68,7 @@ To assess and compare the diagnostic abilities of our various metrics, we used o
 Basic clinical characteristics of our subjects are presented in Table 1. There were no statistically significant differences in age, gender, 24-2 MD, or 24-2 pattern standard deviation (PSD) between our groups (note: healthy participants did not receive 24-2 visual field testing). 
 
 **Table 1**
+
 ![**Table 1**](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure1.png)
 
 _* Result of ANOVA between groups. † T-test comparison of NAION and OAG means. ‡ Result of 2 test of independence. Data are mean ± standard deviation. Healthy controls did not receive 24-2 visual field tests._

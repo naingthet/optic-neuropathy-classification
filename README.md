@@ -69,7 +69,7 @@ Basic clinical characteristics of our subjects are presented in Table 1. There w
 
 
 **Table 1**
-![Table1.png]({{site.baseurl}}/Table1.png)
+![]({{site.baseurl}}/https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure1.png)
 _* Result of ANOVA between groups. † T-test comparison of NAION and OAG means. ‡ Result of 2 test of independence. Data are mean ± standard deviation. Healthy controls did not receive 24-2 visual field tests._
 
 

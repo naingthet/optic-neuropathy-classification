@@ -110,7 +110,7 @@ Table 3 displays odds ratios for each metric, adjusted for age, derived from a m
 ![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Table3.png)
 
 
-OR<sub>NAION</sub> and OR<sub>OAG</sub> are odds ratio results from a multinomial logistic regression for NAION and OAG classification, respectively, with healthy controls as the reference class. P values significant at the 5% level are in boldface. *All tests are adjusted for age. 
+_OR<sub>NAION</sub> and OR<sub>OAG</sub> are odds ratio results from a multinomial logistic regression for NAION and OAG classification, respectively, with healthy controls as the reference class. P values significant at the 5% level are in boldface. *All tests are adjusted for age._
 
 
 **Figure 4**

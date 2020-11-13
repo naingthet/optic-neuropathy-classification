@@ -1,4 +1,4 @@
-# Classifying ophthalmic scans using Random Forest algorithm
+# Classifying Retinal Scans with Random Forest Algorithm
 
 # Abstract
 

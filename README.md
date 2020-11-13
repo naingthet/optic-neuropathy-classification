@@ -69,7 +69,7 @@ Basic clinical characteristics of our subjects are presented in Table 1. There w
 
 
 **Table 1**
-![]({{site.baseurl}}/https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure1.png)
+![]({{site.baseurl}}//Figures_Tables/Figure1.png)
 _* Result of ANOVA between groups. † T-test comparison of NAION and OAG means. ‡ Result of 2 test of independence. Data are mean ± standard deviation. Healthy controls did not receive 24-2 visual field tests._
 
 
@@ -77,7 +77,7 @@ Results for all the OCT metrics, including cpRNFL split by quadrant, are summari
 
 
 **Table 2**
-![Table2.png]({{site.baseurl}}/Table2.png)
+![Table2.png]({{site.baseurl}}/Figures_Tables/Table2.png)
 _Data are mean ± standard deviation. P, comparison of three groups using ANOVA; P1, comparison of Healthy vs NAION; P2, comparison of Healthy and OAG; P3, comparison of Healthy and NAION. P-values significant after Bonferroni correction for multiple comparisons (P<0.006) are in boldface._
 
 

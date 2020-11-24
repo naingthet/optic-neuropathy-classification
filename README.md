@@ -44,7 +44,7 @@ OAG patients were diagnosed by a glaucoma specialist (RR) at the New York Eye an
 
 **Figure 1**
 
-![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure1.png)
+![png](Figures_Tables/Figure1.png)
 
 _A: example of an NAION eye (left) and OAG eye (right) matched for age, 24-2 mean deviation, and pattern and location of visual loss. B: radial B-scans with schematic representations of optic nerve head measurements._
 

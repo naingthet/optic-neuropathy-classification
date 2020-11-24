@@ -71,7 +71,7 @@ Basic clinical characteristics of our subjects are presented in Table 1. There w
 
 **Table 1**
 
-![**Table 1**](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Table1.png)
+![png](Figures_Tables/Table1.png)
 
 _* Result of ANOVA between groups. † T-test comparison of NAION and OAG means. ‡ Result of 2 test of independence. Data are mean ± standard deviation. Healthy controls did not receive 24-2 visual field tests._
 
@@ -81,14 +81,14 @@ Results for all the OCT metrics, including cpRNFL split by quadrant, are summari
 
 **Table 2**
 
-![**Table 2**](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Table2.png)
+![png](Figures_Tables/Table2.png)
 
 _Data are mean ± standard deviation. P, comparison of three groups using ANOVA; P1, comparison of Healthy vs NAION; P2, comparison of Healthy and OAG; P3, comparison of Healthy and NAION. P-values significant after Bonferroni correction for multiple comparisons (P<0.006) are in boldface._
 
 
 **Figure 2**
 
-![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure2.png)
+![png](Figures_Tables/Figure2.png)
 
 _A: box and jitter plots comparing distributions of cLCT (left) and ALCD (right) between the three groups. B: Bland-Altman limits of agreement for cLCT (left) and ALCD (right) measurements._
 
@@ -97,7 +97,7 @@ Figure 3 presents MRW and cpRNFL of the groups by clock hour in NSTIN format. OA
 
 **Figure 3**
 
-![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure3.png)
+![png](Figures_Tables/Figure3.png)
 
 _Comparisons of cpRNFL thickness and BMO-MRW between groups, presented in NSTIN format. Error bars are ± 2 standard errors._
 
@@ -107,7 +107,7 @@ Table 3 displays odds ratios for each metric, adjusted for age, derived from a m
 
 **Table 3**
 
-![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Table3.png)
+![png](Figures_Tables/Table3.png)
 
 
 _OR<sub>NAION</sub> and OR<sub>OAG</sub> are odds ratio results from a multinomial logistic regression for NAION and OAG classification, respectively, with healthy controls as the reference class. P values significant at the 5% level are in boldface. *All tests are adjusted for age._
@@ -115,7 +115,7 @@ _OR<sub>NAION</sub> and OR<sub>OAG</sub> are odds ratio results from a multinomi
 
 **Figure 4**
 
-![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Figure4.png)
+![png](Figures_Tables/Figure4.png)
 
 _A comparison of the relative importance of each variable in a 4 variable Random Forest model._
 
@@ -125,7 +125,7 @@ Lastly, Table 4 lists OOB accuracies, specificities, and sensitivities for RF mo
 
 **Table 4**
 
-![](https://github.com/naingthet/NeuropathyClassification/blob/main/Figures_Tables/Table4.png)
+![png](Figures_Tables/Table4.png)
 
 _Out-of-bag prediction accuracy of Random Forest models, mean ± standard deviation. *All prediction models are adjusted for age._
 

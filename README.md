@@ -1,4 +1,5 @@
 # Classifying Retinal Scans with Random Forest Algorithm
+[Read this post on my website](https://naingthet.github.io/posts/optic-neuropathy/optic-neuropathy/)
 
 ## Preface
 This post and accompanying GitHub repository present the abstract and full manuscript for my undergraduate research on the **applications of machine learning algorithms to the classification of optic neuropathies**. In this research, multiple blinded and experienced observers measured key morphological features of the retina from optical coherence tomography (OCT) scans. These metrics were then used as the features on which the models were trained. **The goal of this experiment was to develop robust models that could accurately distinguish between eyes from three groups of participants: patients with non-arteritic ischemic optic neuropathy (NAION), open-angle glaucoma (OAG), and healthy controls.**
